@@ -11,7 +11,7 @@ Repo collecting high quality AI training links.
 - [rx-m – Developing Applications with Generative AI](https://rx-m.com/training/developing-applications-with-generative-ai/) – Three day, hands-on comprehensive introduction to generative AI for developers.
 - [rx-m – Context Engineering Foundation](https://rx-m.com/training/context-engineering-foundation/) – Two day, hands-on coverage of modern context design and management.
 - [rx-m – LLM Fine Tuning Introduction](https://rx-m.com/training/llm-fine-tuning-introduction/) – Fast-paced, one-day course designed to give participants a working understanding of lightweight fine tuning.
-- [rx-m – Retrieval Augmented Generation (RAG) Foundation](https://rx-m.com/training/retrieval-augmented-generation-rag-introduction/) – Three day hands on deep dive into sophisticated RAG construction.
+- [rx-m – Retrieval Augmented Generation (RAG) Foundation](https://rx-m.com/training/retrieval-augmented-generation-rag-foundation/) – Three day hands on deep dive into sophisticated RAG construction.
 - [rx-m – Transforming the SDLC with AI](https://rx-m.com/training/transforming-the-sdlc-with-ai/) – Two day hands on introduction to next generation AI driven software development processes and practices.
 - [rx-m – Agentic Design Patterns](https://rx-m.com/training/agentic-design-patterns/) – Three day hands on exploration of common and effective AI and Agent patterns for engineering and business applications.
 
